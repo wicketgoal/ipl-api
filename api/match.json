@@ -3,65 +3,27 @@
     {
       "league": "Indian Premier League 2026",
       "format": "T20",
-      "team1": "Mumbai Indians",
-      "team2": "Chennai Super Kings",
-      "venue": "Wankhede Stadium",
-      "start_time": "2026-03-22T14:00:00Z",
+      "home": "Mumbai Indians",
+      "away": "Chennai Super Kings",
+      "kickoff": "2026-03-22T14:00:00Z",
       "duration": 3.5
     },
     {
       "league": "Indian Premier League 2026",
       "format": "T20",
-      "team1": "Royal Challengers Bangalore",
-      "team2": "Kolkata Knight Riders",
-      "venue": "M Chinnaswamy Stadium",
-      "start_time": "2026-03-23T14:00:00Z",
+      "home": "Rajasthan Royals",
+      "away": "Delhi Capitals",
+      "kickoff": "2026-03-23T14:00:00Z",
       "duration": 3.5
     },
     {
       "league": "Indian Premier League 2026",
       "format": "T20",
-      "team1": "Delhi Capitals",
-      "team2": "Punjab Kings",
-      "venue": "Arun Jaitley Stadium",
-      "start_time": "2026-03-24T14:00:00Z",
+      "home": "India",
+      "away": "Nepal",
+      "kickoff": "2026-03-24T14:00:00Z",
       "duration": 3.5
-    },
-    {
-      "league": "Indian Premier League 2026",
-      "format": "T20",
-      "team1": "Rajasthan Royals",
-      "team2": "Sunrisers Hyderabad",
-      "venue": "Sawai Mansingh Stadium",
-      "start_time": "2026-03-25T14:00:00Z",
-      "duration": 3.5
-    },
-    {
-      "league": "Asia Cup 2026",
-      "format": "ODI",
-      "team1": "India",
-      "team2": "Pakistan",
-      "venue": "Dubai International Cricket Stadium",
-      "start_time": "2026-03-27T09:30:00Z",
-      "duration": 8
-    },
-    {
-      "league": "Asia Cup 2026",
-      "format": "ODI",
-      "team1": "Sri Lanka",
-      "team2": "Bangladesh",
-      "venue": "R. Premadasa Stadium",
-      "start_time": "2026-03-28T09:30:00Z",
-      "duration": 8
-    },
-    {
-      "league": "ICC World Test Championship",
-      "format": "Test",
-      "team1": "Australia",
-      "team2": "England",
-      "venue": "Melbourne Cricket Ground",
-      "start_time": "2026-04-01T04:00:00Z",
-      "duration": 120
     }
   ]
 }
+
