@@ -1,67 +1,24 @@
 {
   "matches": [
-    {
-      "league": "Indian Premier League 2026",
-      "format": "T20",
-      "team1": "Mumbai Indians",
-      "team2": "Chennai Super Kings",
-      "venue": "Wankhede Stadium",
-      "start_time": "2026-03-22T14:00:00Z",
-      "duration": 3.5
-    },
-    {
-      "league": "Indian Premier League 2026",
-      "format": "T20",
-      "team1": "Royal Challengers Bangalore",
-      "team2": "Kolkata Knight Riders",
-      "venue": "M Chinnaswamy Stadium",
-      "start_time": "2026-03-23T14:00:00Z",
-      "duration": 3.5
-    },
-    {
-      "league": "Indian Premier League 2026",
-      "format": "T20",
-      "team1": "Delhi Capitals",
-      "team2": "Punjab Kings",
-      "venue": "Arun Jaitley Stadium",
-      "start_time": "2026-03-24T14:00:00Z",
-      "duration": 3.5
-    },
-    {
-      "league": "Indian Premier League 2026",
-      "format": "T20",
-      "team1": "Rajasthan Royals",
-      "team2": "Sunrisers Hyderabad",
-      "venue": "Sawai Mansingh Stadium",
-      "start_time": "2026-03-25T14:00:00Z",
-      "duration": 3.5
-    },
-    {
-      "league": "Asia Cup 2026",
-      "format": "ODI",
-      "team1": "India",
-      "team2": "Pakistan",
-      "venue": "Dubai International Cricket Stadium",
-      "start_time": "2026-03-27T09:30:00Z",
-      "duration": 8
-    },
-    {
-      "league": "Asia Cup 2026",
-      "format": "ODI",
-      "team1": "Sri Lanka",
-      "team2": "Bangladesh",
-      "venue": "R. Premadasa Stadium",
-      "start_time": "2026-03-28T09:30:00Z",
-      "duration": 8
-    },
-    {
-      "league": "ICC World Test Championship",
-      "format": "Test",
-      "team1": "Australia",
-      "team2": "England",
-      "venue": "Melbourne Cricket Ground",
-      "start_time": "2026-04-01T04:00:00Z",
-      "duration": 120
-    }
+    {"league":"Indian Premier League 2026","format":"T20","team1":"Royal Challengers Bengaluru","team2":"Sunrisers Hyderabad","venue":"M Chinnaswamy Stadium","start_time":"2026-03-28T09:30:00Z","duration":3.5},
+    {"league":"Indian Premier League 2026","format":"T20","team1":"Mumbai Indians","team2":"Kolkata Knight Riders","venue":"Wankhede Stadium","start_time":"2026-03-29T09:30:00Z","duration":3.5},
+    {"league":"Indian Premier League 2026","format":"T20","team1":"Rajasthan Royals","team2":"Chennai Super Kings","venue":"Barsapara Cricket Stadium","start_time":"2026-03-30T09:30:00Z","duration":3.5},
+    {"league":"Indian Premier League 2026","format":"T20","team1":"Punjab Kings","team2":"Gujarat Titans","venue":"Punjab Cricket Association Stadium","start_time":"2026-03-31T09:30:00Z","duration":3.5},
+    {"league":"Indian Premier League 2026","format":"T20","team1":"Lucknow Super Giants","team2":"Delhi Capitals","venue":"BRSABV Ekana Stadium","start_time":"2026-04-01T09:30:00Z","duration":3.5},
+    {"league":"Indian Premier League 2026","format":"T20","team1":"Kolkata Knight Riders","team2":"Sunrisers Hyderabad","venue":"Eden Gardens","start_time":"2026-04-02T09:30:00Z","duration":3.5},
+    {"league":"Indian Premier League 2026","format":"T20","team1":"Chennai Super Kings","team2":"Punjab Kings","venue":"M A Chidambaram Stadium","start_time":"2026-04-03T09:30:00Z","duration":3.5},
+    {"league":"Indian Premier League 2026","format":"T20","team1":"Delhi Capitals","team2":"Mumbai Indians","venue":"Arun Jaitley Stadium","start_time":"2026-04-04T09:30:00Z","duration":3.5},
+    {"league":"Indian Premier League 2026","format":"T20","team1":"Gujarat Titans","team2":"Rajasthan Royals","venue":"Narendra Modi Stadium","start_time":"2026-04-04T09:30:00Z","duration":3.5},
+    {"league":"Indian Premier League 2026","format":"T20","team1":"Sunrisers Hyderabad","team2":"Lucknow Super Giants","venue":"Rajiv Gandhi International Cricket Stadium","start_time":"2026-04-05T09:30:00Z","duration":3.5},
+    {"league":"Indian Premier League 2026","format":"T20","team1":"Royal Challengers Bengaluru","team2":"Chennai Super Kings","venue":"M Chinnaswamy Stadium","start_time":"2026-04-05T09:30:00Z","duration":3.5},
+    {"league":"Indian Premier League 2026","format":"T20","team1":"Kolkata Knight Riders","team2":"Punjab Kings","venue":"Eden Gardens","start_time":"2026-04-06T09:30:00Z","duration":3.5},
+    {"league":"Indian Premier League 2026","format":"T20","team1":"Rajasthan Royals","team2":"Mumbai Indians","venue":"Barsapara Cricket Stadium","start_time":"2026-04-07T09:30:00Z","duration":3.5},
+    {"league":"Indian Premier League 2026","format":"T20","team1":"Delhi Capitals","team2":"Gujarat Titans","venue":"Arun Jaitley Stadium","start_time":"2026-04-08T09:30:00Z","duration":3.5},
+    {"league":"Indian Premier League 2026","format":"T20","team1":"Kolkata Knight Riders","team2":"Lucknow Super Giants","venue":"Eden Gardens","start_time":"2026-04-09T09:30:00Z","duration":3.5},
+    {"league":"Indian Premier League 2026","format":"T20","team1":"Rajasthan Royals","team2":"Royal Challengers Bengaluru","venue":"Barsapara Cricket Stadium","start_time":"2026-04-10T09:30:00Z","duration":3.5},
+    {"league":"Indian Premier League 2026","format":"T20","team1":"Punjab Kings","team2":"Sunrisers Hyderabad","venue":"Punjab Cricket Association Stadium","start_time":"2026-04-11T09:30:00Z","duration":3.5},
+    {"league":"Indian Premier League 2026","format":"T20","team1":"Chennai Super Kings","team2":"Delhi Capitals","venue":"M A Chidambaram Stadium","start_time":"2026-04-11T09:30:00Z","duration":3.5},
+    {"league":"Indian Premier League 2026","format":"T20","team1":"Lucknow Super Giants","team2":"Gujarat Titans","venue":"BRSABV Ekana Stadium","start_time":"2026-04-12T09:30:00Z","duration":3.5},
+    {"league":"Indian Premier League 2026","format":"T20","team1":"Mumbai Indians","team2":"Royal Challengers Bengaluru","venue":"Wankhede Stadium","start_time":"2026-04-12T09:30:00Z","duration":3.5}
   ]
 }
