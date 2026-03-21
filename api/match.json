@@ -1,4 +1,4 @@
-// IPL matches
+
 {
   "matches": [
     {"league":"Indian Premier League 2026","format":"T20","team1":"Royal Challengers Bengaluru","team2":"Sunrisers Hyderabad","venue":"M Chinnaswamy Stadium","start_time":"2026-03-28T09:30:00Z","duration":3.5},
@@ -24,7 +24,6 @@
   ]
 }
 
-    // PSL matches
 {
   "matches": [
     {"league":"Pakistan Super League 2026","format":"T20","team1":"Lahore Qalandars","team2":"Hyderabad Kingsmen","venue":"Lahore","start_time":"2026-03-26T15:00:00Z","duration":3.5},
