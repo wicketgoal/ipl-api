@@ -20,12 +20,9 @@
     {"league":"Indian Premier League 2026","format":"T20","team1":"Punjab Kings","team2":"Sunrisers Hyderabad","venue":"Punjab Cricket Association Stadium","start_time":"2026-04-11T09:30:00Z","duration":3.5},
     {"league":"Indian Premier League 2026","format":"T20","team1":"Chennai Super Kings","team2":"Delhi Capitals","venue":"M A Chidambaram Stadium","start_time":"2026-04-11T09:30:00Z","duration":3.5},
     {"league":"Indian Premier League 2026","format":"T20","team1":"Lucknow Super Giants","team2":"Gujarat Titans","venue":"BRSABV Ekana Stadium","start_time":"2026-04-12T09:30:00Z","duration":3.5},
-    {"league":"Indian Premier League 2026","format":"T20","team1":"Mumbai Indians","team2":"Royal Challengers Bengaluru","venue":"Wankhede Stadium","start_time":"2026-04-12T09:30:00Z","duration":3.5}
-  ]
-}
+    {"league":"Indian Premier League 2026","format":"T20","team1":"Mumbai Indians","team2":"Royal Challengers Bengaluru","venue":"Wankhede Stadium","start_time":"2026-04-12T09:30:00Z","duration":3.5},
+  
 
-{
-  "matches": [
     {"league":"Pakistan Super League 2026","format":"T20","team1":"Lahore Qalandars","team2":"Hyderabad Kingsmen","venue":"Lahore","start_time":"2026-03-26T15:00:00Z","duration":3.5},
     {"league":"Pakistan Super League 2026","format":"T20","team1":"Quetta Gladiators","team2":"Karachi Kings","venue":"Lahore","start_time":"2026-03-27T14:00:00Z","duration":3.5},
     {"league":"Pakistan Super League 2026","format":"T20","team1":"Peshawar Zalmi","team2":"Rawalpindiz","venue":"Peshawar","start_time":"2026-03-28T09:30:00Z","duration":3.5},
