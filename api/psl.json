@@ -1,19 +1,5 @@
 {
   "matches": [
-
-
-
-    
-    
-    {"league":"Pakistan Super League 2026","format":"T20","team1":"Lahore Qalandars","team2":"Quetta Gladiators","venue":"Lahore","start_time":"2026-04-21T09:30:00Z","duration":3.5},
-    {"league":"Pakistan Super League 2026","format":"T20","team1":"Rawalpindiz","team2":"Multan Sultans","venue":"Karachi","start_time":"2026-04-21T14:00:00Z","duration":3.5},
-
-    {"league":"Pakistan Super League 2026","format":"T20","team1":"Karachi Kings","team2":"Peshawar Zalmi","venue":"Lahore","start_time":"2026-04-22T09:30:00Z","duration":3.5},
-    {"league":"Pakistan Super League 2026","format":"T20","team1":"Hyderabad Kingsmen","team2":"Multan Sultans","venue":"Karachi","start_time":"2026-04-22T14:00:00Z","duration":3.5},
-
-    {"league":"Pakistan Super League 2026","format":"T20","team1":"Rawalpindiz","team2":"Islamabad United","venue":"Karachi","start_time":"2026-04-23T09:30:00Z","duration":3.5},
-    {"league":"Pakistan Super League 2026","format":"T20","team1":"Lahore Qalandars","team2":"Karachi Kings","venue":"Lahore","start_time":"2026-04-23T14:00:00Z","duration":3.5},
-
     {"league":"Pakistan Super League 2026","format":"T20","team1":"Hyderabad Kingsmen","team2":"Islamabad United","venue":"Karachi","start_time":"2026-04-24T14:00:00Z","duration":3.5},
 
     {"league":"Pakistan Super League 2026","format":"T20","team1":"Quetta Gladiators","team2":"Karachi Kings","venue":"Lahore","start_time":"2026-04-25T09:30:00Z","duration":3.5},
