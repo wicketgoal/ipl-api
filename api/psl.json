@@ -1,8 +1,8 @@
 {
   "matches": [
     
-    {"league":"Pakistan Super League 2026","format":"T20","team1":"Eliminator 1","team2":"TBD","venue":"Lahore","start_time":"2026-04-29T14:00:00Z","duration":3.5},
-    {"league":"Pakistan Super League 2026","format":"T20","team1":"Eliminator 2","team2":"TBD","venue":"Lahore","start_time":"2026-05-01T14:00:00Z","duration":3.5},
-    {"league":"Pakistan Super League 2026","format":"T20","team1":"Final","team2":"TBD","venue":"Lahore","start_time":"2026-05-03T14:00:00Z","duration":3.5}
+    {"league":"Pakistan Super League 2026","format":"T20","team1":"Hyderabad Kingsmen","team2":"Multan Sultans","venue":"Lahore","start_time":"2026-04-29T14:00:00Z","duration":3.5},
+    {"league":"Pakistan Super League 2026","format":"T20","team1":"Eliminator 2","team2":"Islamabad United","venue":"Lahore","start_time":"2026-05-01T14:00:00Z","duration":3.5},
+    {"league":"Pakistan Super League 2026","format":"T20","team1":"Peshwar Zalmi","team2":"TBD","venue":"Lahore","start_time":"2026-05-03T14:00:00Z","duration":3.5}
   ]
 }
