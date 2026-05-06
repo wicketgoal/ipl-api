@@ -2,14 +2,6 @@
   "matches": [
       
     
-    
-       {"league":"Indian Premier League 2026","format":"T20","team1":"Mumbai Indians","team2":"Chennai Super Kings","venue":"Chennai","start_time":"2026-05-02T14:00:00Z","duration":3.5},
-
-    {"league":"Indian Premier League 2026","format":"T20","team1":"Kolkata Knight Riders","team2":"Sunrisers Hyderabad","venue":"Hyderabad","start_time":"2026-05-03T10:00:00Z","duration":3.5},
-    {"league":"Indian Premier League 2026","format":"T20","team1":"Punjab Kings","team2":"Gujarat Titans","venue":"Ahmedabad","start_time":"2026-05-03T14:00:00Z","duration":3.5},
-
-    {"league":"Indian Premier League 2026","format":"T20","team1":"Lucknow Super Giants","team2":"Mumbai Indians","venue":"Mumbai","start_time":"2026-05-04T14:00:00Z","duration":3.5},
-    {"league":"Indian Premier League 2026","format":"T20","team1":"Chennai Super Kings","team2":"Delhi Capitals","venue":"Delhi","start_time":"2026-05-05T14:00:00Z","duration":3.5},
     {"league":"Indian Premier League 2026","format":"T20","team1":"Punjab Kings","team2":"Sunrisers Hyderabad","venue":"Hyderabad","start_time":"2026-05-06T14:00:00Z","duration":3.5},
     {"league":"Indian Premier League 2026","format":"T20","team1":"Royal Challengers Bengaluru","team2":"Lucknow Super Giants","venue":"Lucknow","start_time":"2026-05-07T14:00:00Z","duration":3.5},
     {"league":"Indian Premier League 2026","format":"T20","team1":"Kolkata Knight Riders","team2":"Delhi Capitals","venue":"Delhi","start_time":"2026-05-08T14:00:00Z","duration":3.5},
