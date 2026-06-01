@@ -2,8 +2,7 @@
   "matches": [
       
     
-  {"league":"Indian Premier League 2026","format":"T20","team1":"Gujarat Titans","team2":"Rajasthan Royals","venue":"Dharmashala","start_time":"2026-05-29T14:00:00Z","duration":4},
-    {"league":"Indian Premier League 2026","format":"T20","team1":"Royal Challengers Bengaluru","team2":"Gujarat Titans","venue":" New Chandigarh","start_time":"2026-05-31T14:00:00Z","duration":4}
+  {"league":"Indian Premier League 2026","format":"T20","team1":"Gujarat","team2":"Rajasthan","venue":"Dharmashala","start_time":"2026-05-29T14:00:00Z","duration":4},
     
   ]
 }
