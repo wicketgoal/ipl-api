@@ -1,132 +1,273 @@
-{
-  "matches": [
-{
-      "league": "The Hundred  2026 Women",
-      "format": "100-ball",
-      "team1": "London Spirit Women",
-      "team2": "Birmingham Phoenix Women",
-      "venue": "Lord's",
-      "start_time": "2026-08-09T14:00:00Z",
-      "duration": 3
-    },
-    
-    {
-      "league": "The Hundred  2026 Men",
-      "format": "100-ball",
-      "team1": "Sunrisers Leeds Men",
-      "team2": "Welsh Fire Men",
-      "venue": "Leeds",
-      "start_time": "2026-08-09T14:00:00Z",
-      "duration": 3
-    },
-    
-    {
-      "league": "The Hundred Women 2026",
-      "format": "100-ball",
-      "team1": "Trent Rockets Women",
-      "team2": "Southern Brave Women",
-      "venue": "Trent Bridge",
-      "start_time": "2026-08-10T14:00:00Z",
-      "duration": 3
-    },
-    {
-      "league": "The Hundred Men 2026",
-      "format": "100-ball",
-      "team1": "Trent Rockets Men",
-      "team2": "Southern Brave Men",
-      "venue": "Trent Bridge",
-      "start_time": "2026-08-10T17:30:00Z",
-      "duration": 3
-    },
-    {
-      "league": "The Hundred Women 2026",
-      "format": "100-ball",
-      "team1": "Manchester Super Giants Women",
-      "team2": "SunRisers Leeds Women",
-      "venue": "Emirates Old Trafford",
-      "start_time": "2026-08-11T13:45:00Z",
-      "duration": 3
-    },
-    {
-      "league": "The Hundred Men 2026",
-      "format": "100-ball",
-      "team1": "Manchester Super Giants Men",
-      "team2": "SunRisers Leeds Men",
-      "venue": "Emirates Old Trafford",
-      "start_time": "2026-08-11T17:30:00Z",
-      "duration": 3
-    },
-    {
-      "league": "The Hundred Women 2026",
-      "format": "100-ball",
-      "team1": "Welsh Fire Women",
-      "team2": "London Spirit Women",
-      "venue": "Sophia Gardens",
-      "start_time": "2026-08-12T10:30:00Z",
-      "duration": 3
-    },
-    {
-      "league": "The Hundred Men 2026",
-      "format": "100-ball",
-      "team1": "Welsh Fire Men",
-      "team2": "London Spirit Men",
-      "venue": "Sophia Gardens",
-      "start_time": "2026-08-12T14:00:00Z",
-      "duration": 3
-    },
-    {
-      "league": "The Hundred Women 2026",
-      "format": "100-ball",
-      "team1": "Birmingham Phoenix Women",
-      "team2": "MI London Women",
-      "venue": "Edgbaston",
-      "start_time": "2026-08-12T14:00:00Z",
-      "duration": 3
-    },
-    {
-      "league": "The Hundred Men 2026",
-      "format": "100-ball",
-      "team1": "Birmingham Phoenix Men",
-      "team2": "MI London Men",
-      "venue": "Edgbaston",
-      "start_time": "2026-08-12T17:30:00Z",
-      "duration": 3
-    },
-    {
-      "league": "The Hundred Women 2026",
-      "format": "100-ball",
-      "team1": "TBD",
-      "team2": "TBD",
-      "venue": "The Kia Oval",
-      "start_time": "2026-08-14T13:15:00Z",
-      "duration": 3
-    },
-    {
-      "league": "The Hundred Men 2026",
-      "format": "100-ball",
-      "team1": "TBD",
-      "team2": "TBD",
-      "venue": "The Kia Oval",
-      "start_time": "2026-08-14T17:00:00Z",
-      "duration": 3
-    },
-    {
-      "league": "The Hundred Women 2026",
-      "format": "100-ball",
-      "team1": "TBD",
-      "team2": "TBD",
-      "venue": "Lord's Cricket Ground",
-      "start_time": "2026-08-16T13:15:00Z",
-      "duration": 3
-    },
-    {
-      "league": "The Hundred Men 2026",
-      "format": "100-ball",
-      "team1": "TBD",
-      "team2": "TBD",
-      "venue": "Lord's Cricket Ground",
-      "start_time": "2026-08-16T17:00:00Z",
-      "duration": 3
-    }
-  ]
-}
+[
+
+  {
+    "league": "Top End T20 Series 2026",
+    "format": "T20",
+    "team1": "Victoria",
+    "team2": "Hobart Hurricanes",
+    "venue": "TIO Stadium",
+    "start_time": "2026-08-21T00:30:00Z",
+    "duration": 3
+  },
+  {
+    "league": "Top End T20 Series 2026",
+    "format": "T20",
+    "team1": "ACT Comets",
+    "team2": "HH Kingsmen",
+    "venue": "TIO Stadium",
+    "start_time": "2026-08-21T05:30:00Z",
+    "duration": 3
+  },
+  {
+    "league": "Top End T20 Series 2026",
+    "format": "T20",
+    "team1": "NT Strike",
+    "team2": "Nepal",
+    "venue": "DXC Arena 1",
+    "start_time": "2026-08-21T10:30:00Z",
+    "duration": 3
+  },
+  {
+    "league": "Top End T20 Series 2026",
+    "format": "T20",
+    "team1": "New Zealand A",
+    "team2": "Adelaide Strikers",
+    "venue": "TIO Stadium",
+    "start_time": "2026-08-22T00:30:00Z",
+    "duration": 3
+  },
+  {
+    "league": "Top End T20 Series 2026",
+    "format": "T20",
+    "team1": "Victoria",
+    "team2": "HH Kingsmen",
+    "venue": "DXC Arena 1",
+    "start_time": "2026-08-22T04:30:00Z",
+    "duration": 3
+  },
+  {
+    "league": "Top End T20 Series 2026",
+    "format": "T20",
+    "team1": "Nepal",
+    "team2": "Bangladesh HP",
+    "venue": "TIO Stadium",
+    "start_time": "2026-08-22T10:30:00Z",
+    "duration": 3
+  },
+  {
+    "league": "Top End T20 Series 2026",
+    "format": "T20",
+    "team1": "New Zealand A",
+    "team2": "ACT Comets",
+    "venue": "TIO Stadium",
+    "start_time": "2026-08-23T00:30:00Z",
+    "duration": 3
+  },
+  {
+    "league": "Top End T20 Series 2026",
+    "format": "T20",
+    "team1": "NT Strike",
+    "team2": "Adelaide Strikers",
+    "venue": "Gerry Wood",
+    "start_time": "2026-08-23T03:30:00Z",
+    "duration": 3
+  },
+  {
+    "league": "Top End T20 Series 2026",
+    "format": "T20",
+    "team1": "Hobart Hurricanes",
+    "team2": "Bangladesh HP",
+    "venue": "TIO Stadium",
+    "start_time": "2026-08-23T07:30:00Z",
+    "duration": 3
+  },
+  {
+    "league": "Top End T20 Series 2026",
+    "format": "T20",
+    "team1": "NT Strike",
+    "team2": "HH Kingsmen",
+    "venue": "DXC Arena 1",
+    "start_time": "2026-08-24T00:30:00Z",
+    "duration": 3
+  },
+  {
+    "league": "Top End T20 Series 2026",
+    "format": "T20",
+    "team1": "Victoria",
+    "team2": "Bangladesh HP",
+    "venue": "DXC Arena 2",
+    "start_time": "2026-08-24T05:00:00Z",
+    "duration": 3
+  },
+  {
+    "league": "Top End T20 Series 2026",
+    "format": "T20",
+    "team1": "Nepal",
+    "team2": "Hobart Hurricanes",
+    "venue": "DXC Arena 1",
+    "start_time": "2026-08-24T09:30:00Z",
+    "duration": 3
+  },
+  {
+    "league": "Top End T20 Series 2026",
+    "format": "T20",
+    "team1": "NT Strike",
+    "team2": "ACT Comets",
+    "venue": "DXC Arena 2",
+    "start_time": "2026-08-25T00:30:00Z",
+    "duration": 3
+  },
+  {
+    "league": "Top End T20 Series 2026",
+    "format": "T20",
+    "team1": "New Zealand A",
+    "team2": "HH Kingsmen",
+    "venue": "DXC Arena 2",
+    "start_time": "2026-08-25T05:00:00Z",
+    "duration": 3
+  },
+  {
+    "league": "Top End T20 Series 2026",
+    "format": "T20",
+    "team1": "Adelaide Strikers",
+    "team2": "Bangladesh HP",
+    "venue": "DXC Arena 1",
+    "start_time": "2026-08-25T09:30:00Z",
+    "duration": 3
+  },
+  {
+    "league": "Top End T20 Series 2026",
+    "format": "T20",
+    "team1": "New Zealand A",
+    "team2": "Victoria",
+    "venue": "DXC Arena 1",
+    "start_time": "2026-08-26T00:30:00Z",
+    "duration": 3
+  },
+  {
+    "league": "Top End T20 Series 2026",
+    "format": "T20",
+    "team1": "Hobart Hurricanes",
+    "team2": "Adelaide Strikers",
+    "venue": "DXC Arena 2",
+    "start_time": "2026-08-26T05:00:00Z",
+    "duration": 3
+  },
+  {
+    "league": "Top End T20 Series 2026",
+    "format": "T20",
+    "team1": "Nepal",
+    "team2": "ACT Comets",
+    "venue": "DXC Arena 1",
+    "start_time": "2026-08-26T09:30:00Z",
+    "duration": 3
+  },
+  {
+    "league": "Top End T20 Series 2026",
+    "format": "T20",
+    "team1": "NT Strike",
+    "team2": "Victoria",
+    "venue": "DXC Arena 1",
+    "start_time": "2026-08-27T00:30:00Z",
+    "duration": 3
+  },
+  {
+    "league": "Top End T20 Series 2026",
+    "format": "T20",
+    "team1": "Nepal",
+    "team2": "HH Kingsmen",
+    "venue": "Gardens Oval",
+    "start_time": "2026-08-27T03:30:00Z",
+    "duration": 3
+  },
+  {
+    "league": "Top End T20 Series 2026",
+    "format": "T20",
+    "team1": "New Zealand A",
+    "team2": "Bangladesh HP",
+    "venue": "DXC Arena 1",
+    "start_time": "2026-08-27T07:30:00Z",
+    "duration": 3
+  },
+  {
+    "league": "Top End T20 Series 2026",
+    "format": "T20",
+    "team1": "Hobart Hurricanes",
+    "team2": "ACT Comets",
+    "venue": "DXC Arena 1",
+    "start_time": "2026-08-28T00:30:00Z",
+    "duration": 3
+  },
+  {
+    "league": "Top End T20 Series 2026",
+    "format": "T20",
+    "team1": "HH Kingsmen",
+    "team2": "Adelaide Strikers",
+    "venue": "Gardens Oval",
+    "start_time": "2026-08-28T03:30:00Z",
+    "duration": 3
+  },
+  {
+    "league": "Top End T20 Series 2026",
+    "format": "T20",
+    "team1": "NT Strike",
+    "team2": "Bangladesh HP",
+    "venue": "DXC Arena 1",
+    "start_time": "2026-08-28T07:30:00Z",
+    "duration": 3
+  },
+  {
+    "league": "Top End T20 Series 2026",
+    "format": "T20",
+    "team1": "New Zealand A",
+    "team2": "Hobart Hurricanes",
+    "venue": "DXC Arena 1",
+    "start_time": "2026-08-29T00:30:00Z",
+    "duration": 3
+  },
+  {
+    "league": "Top End T20 Series 2026",
+    "format": "T20",
+    "team1": "ACT Comets",
+    "team2": "Adelaide Strikers",
+    "venue": "Gardens Oval",
+    "start_time": "2026-08-29T03:30:00Z",
+    "duration": 3
+  },
+  {
+    "league": "Top End T20 Series 2026",
+    "format": "T20",
+    "team1": "Nepal",
+    "team2": "Victoria",
+    "venue": "DXC Arena 1",
+    "start_time": "2026-08-29T07:30:00Z",
+    "duration": 3
+  },
+  {
+    "league": "Top End T20 Series 2026",
+    "format": "T20",
+    "team1": "Semi-Final 1 (2nd vs 3rd)",
+    "team2": "TBD",
+    "venue": "Gardens Oval",
+    "start_time": "2026-08-30T00:30:00Z",
+    "duration": 3
+  },
+  {
+    "league": "Top End T20 Series 2026",
+    "format": "T20",
+    "team1": "Semi-Final 2 (1st vs 4th)",
+    "team2": "TBD",
+    "venue": "DXC Arena 1",
+    "start_time": "2026-08-30T01:00:00Z",
+    "duration": 3
+  },
+  {
+    "league": "Top End T20 Series 2026",
+    "format": "T20",
+    "team1": "Grand Final",
+    "team2": "TBD",
+    "venue": "DXC Arena 1",
+    "start_time": "2026-08-30T06:30:00Z",
+    "duration": 3
+  }
+]
