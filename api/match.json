@@ -228,46 +228,11 @@
   {
     "league": "Top End T20 Series 2026",
     "format": "T20",
-    "team1": "ACT Comets",
-    "team2": "Adelaide Strikers",
-    "venue": "Gardens Oval",
-    "start_time": "2026-08-29T03:30:00Z",
-    "duration": 3
-  },
-  {
-    "league": "Top End T20 Series 2026",
-    "format": "T20",
     "team1": "Nepal",
     "team2": "Victoria",
     "venue": "DXC Arena 1",
     "start_time": "2026-08-29T07:30:00Z",
     "duration": 3
-  },
-  {
-    "league": "Top End T20 Series 2026",
-    "format": "T20",
-    "team1": "Semi-Final 1 (2nd vs 3rd)",
-    "team2": "TBD",
-    "venue": "Gardens Oval",
-    "start_time": "2026-08-30T00:30:00Z",
-    "duration": 3
-  },
-  {
-    "league": "Top End T20 Series 2026",
-    "format": "T20",
-    "team1": "Semi-Final 2 (1st vs 4th)",
-    "team2": "TBD",
-    "venue": "DXC Arena 1",
-    "start_time": "2026-08-30T01:00:00Z",
-    "duration": 3
-  },
-  {
-    "league": "Top End T20 Series 2026",
-    "format": "T20",
-    "team1": "Grand Final",
-    "team2": "TBD",
-    "venue": "DXC Arena 1",
-    "start_time": "2026-08-30T06:30:00Z",
-    "duration": 3
   }
+ 
 ]
